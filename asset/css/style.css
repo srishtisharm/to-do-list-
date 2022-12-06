@@ -1,0 +1,28 @@
+.container{
+    background-color: black;
+    height: 950px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(deeppink,purple,yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+
+}
+.item1{
+    list-style-type: none;
+    background-color: aqua;
+    width: 20%;
+    height: 180px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 40px 0px;
+    border: 20px solid whitesmoke;
+    position: absolute;
+    left: 38%;
+}
